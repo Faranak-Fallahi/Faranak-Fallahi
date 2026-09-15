@@ -35,5 +35,5 @@ I'm a Python and Django developer focused on backend development and building pr
 
 ## 📫 Connect With Me
 
-- LinkedIn:linkedin.com/in/faranak-fallahi-0886b82b8
+- LinkedIn: [Faranak Fallahi](https://www.linkedin.com/in/faranak-fallahi-0886b82b8/)
 - Email: faranakfallahi422@gmail.com
